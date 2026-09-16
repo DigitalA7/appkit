@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce dépôt propose un parcours documentaire en français sur Reown AppKit : onboarding, wallets, authentification, multi-chaînes, swaps, transactions sponsorisées et SDK. Voir [le sommaire](docs/fr/README.md).
+
 # AppKit
 
 The full stack toolkit to build onchain app UX.
